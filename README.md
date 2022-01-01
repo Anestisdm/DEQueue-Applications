@@ -17,7 +17,7 @@ The purpose of this project is to implement a basic abstract data type such as D
 The application will read an arithmetic expression in Postfix format and will print the corresponding Infix format. For simplicity, we will consider that arithmetic expressions contain single digits integers and use the operators +, -, *, /. Also validation is performed and an error message is displayed in case the input expression is not in a valid Postfix format.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/72802400/147848970-65d11ff1-0441-4b8d-87f0-95257aa4f905.png">
+  <img src="https://user-images.githubusercontent.com/72802400/147849674-6b02df43-ebc4-4e2a-9b9e-0f0c52505d64.png">
  </p>
 
 ### 3 - Application *DNA Palindrome*
