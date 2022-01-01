@@ -14,7 +14,8 @@ Implementation of data structures with Java Programming
 The purpose of this project is to implement a basic abstract data type such as Double Ended Queue so that it can be used in two applications
 
 ### 2 - Application *Postfix to Infix*
-The application will read an arithmetic expression in Postfix format and will print the corresponding Infix format. For simplicity, we will consider that arithmetic expressions contain single digits integers and use the operators +, -, *, /. Also validation is performed and an error message is displayed in case the input expression is not in a valid Postfix format. (eg Postfix: '35+9*' => Infix: '((3+5)*9)' )
+The application will read an arithmetic expression in Postfix format and will print the corresponding Infix format. For simplicity, we will consider that arithmetic expressions contain single digits integers and use the operators +, -, *, /. Also validation is performed and an error message is displayed in case the input expression is not in a valid Postfix format.
+<img src="https://user-images.githubusercontent.com/72802400/147848720-68b43273-1121-457b-90cd-028b5279f65e.png" align="center">
 
 ### 3 - Application *DNA Palindrome*
 The Application reads a sequence of characters representing DNA sequence and decides if it is a Watson-Crick complemented palindrome. The application also performs a validation check of the inserted DNA sequence (e.g. does not contain spaces or unacceptable characters, non-capital letters), and in finally print the relevant result.
