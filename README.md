@@ -5,10 +5,7 @@
 
 ---
 
-# Data-Structures
-Implementation of data structures with Java Programming
-
-## Double Ended Queue
+# Double Ended Queue
 
 ### 1 - Scope
 The purpose of this project is to implement a basic abstract data type such as Double Ended Queue so that it can be used in two applications
@@ -28,5 +25,23 @@ The Application reads a sequence of characters representing DNA sequence and dec
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/72802400/147849053-db732751-a6c4-4004-bda1-bb7c0341235f.png">
- </p>
+</p>
+
+
+### 4 - How it works
+
+**Workstation Specifications**
+- Windows 10 or Linux or MacOS, 64 bit
+- RAM, 8GB required
+- 128 GB Storage 
+- 4 Core CPU
+
+**Steps to run the application**
+1. Clone this repository to Intellij
+3. Run 'PostfixToInfix' or 'DNAPalindrome' from Intellij
+4. Start using the application and all the features from UI that appears
+
+
+### 6 - User Support
+For help or new feature suggestions you can contanct with the development team.
 
