@@ -43,6 +43,6 @@ The Application reads a sequence of characters representing DNA sequence and dec
 
 <img src="https://user-images.githubusercontent.com/72802400/147851830-e77bb828-4e1f-4d63-a926-042059ce018a.png">           <img src="https://user-images.githubusercontent.com/72802400/147851885-9d648895-cc6b-49ff-894d-d37f8a255412.png">
 
-### 6 - User Support
+### 5 - User Support
 For help or new feature suggestions you can contanct with the development team.
 
