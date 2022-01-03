@@ -27,7 +27,6 @@ The Application reads a sequence of characters representing DNA sequence and dec
   <img src="https://user-images.githubusercontent.com/72802400/147849053-db732751-a6c4-4004-bda1-bb7c0341235f.png">
 </p>
 
-
 ### 4 - How it works
 
 **Workstation Specifications**
